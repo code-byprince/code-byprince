@@ -69,10 +69,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/code-byprince/code-byprince/blob/output/github-contribution-grid-snake.svg)
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=code-byprince)
+![GitHub followers](https://img.shields.io/github/followers/code-byprince)
+![GitHub stars](https://img.shields.io/github/stars/code-byprince)
 
 ⭐ Thanks for visiting my profile!
