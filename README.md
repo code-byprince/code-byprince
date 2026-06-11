@@ -63,14 +63,11 @@
 
 ---
 
-## 👀 Profile Views
+## 🎯 2026 Goals
 
-![](https://komarev.com/ghpvc/?username=code-byprince&color=blue)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=code-byprince)
-![GitHub followers](https://img.shields.io/github/followers/code-byprince)
-![GitHub stars](https://img.shields.io/github/stars/code-byprince)
-
+- Learn Advanced JavaScript
+- Build 10+ Projects
+- Reach 100 GitHub Followers
+- Contribute to Open Source
+- 
 ⭐ Thanks for visiting my profile!
