@@ -1,15 +1,78 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm Prince Kumar Agarwal 👋<br><br>💻 Passionate about Web Development and Technology  <br>🌱 Currently learning HTML, CSS, JavaScript, Git, and GitHub  <br>🚀 Interested in Open Source Projects and AI Tools  <br>📚 Always exploring new technologies and improving my skills  <br>🎯 Goal: Become a Full Stack Developer and build impactful projects  <br>⚡ Fun Fact: I love creating websites, learning new tech, and sharing knowledge online.
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">Web Developer • Content Creator • Tech Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@PrinceKumarSaw ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@affiliate__prince10x_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/codebyprince) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@FocusReelsX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princehelpeddesk@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=code-byprince&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=code-byprince&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-byprince&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile;Web+Developer;Content+Creator;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=code-byprince&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🌱 Currently learning Web Development
+- 💻 Passionate about Coding & Technology
+- 🎬 Content Creator
+- 🎯 Goal: Build Amazing Projects
+- ⚡ Fun Fact: I love creating new things
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/affiliate__prince10x_">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://facebook.com/PrinceKumarSaw">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://youtube.com/@FocusReelsX">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://pinterest.com/codebyprince">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
+</a>
+</p>
+
+---
+
+## 🛠 Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=code-byprince&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=code-byprince&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-byprince&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=code-byprince&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=code-byprince&color=blue)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/code-byprince/code-byprince/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Thanks for visiting my profile!
